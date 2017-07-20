@@ -1,0 +1,25 @@
+﻿
+/*===================Text-Box=============================*/
+.autocomplete_completionListElement
+{
+    font-family: Verdana, Helvetica, sans-serif;
+            font-size: .8em;
+            font-weight: normal;
+            border: solid 1px #006699;
+            line-height: 20px;
+            padding: 10px;
+            background-color: White;
+            margin-left:10px;
+}
+
+.autocomplete_highlightedListItem
+{
+    padding: 1px;
+}
+
+/* AutoComplete item */
+
+.autocomplete_listItem
+{
+    padding: 1px;
+}
